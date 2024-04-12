@@ -1,0 +1,4 @@
+dist
+django_polls.egg-info
+django_polls/__pycache__
+django_polls/migrations
